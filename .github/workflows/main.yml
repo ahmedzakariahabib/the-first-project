@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: 'testing'
-        run:pwd
+        run: pwd
 
 
 
